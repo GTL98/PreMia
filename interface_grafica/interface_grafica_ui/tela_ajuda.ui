@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>491</width>
+    <height>550</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>491</width>
+    <height>550</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>491</width>
+    <height>550</height>
+   </size>
+  </property>
+  <property name="font">
+   <font>
+    <pointsize>20</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item alignment="Qt::AlignHCenter">
+    <widget class="QLabel" name="label">
+     <property name="font">
+      <font>
+       <pointsize>20</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="text">
+      <string>Bem vindo ao PreMia!</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_2">
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>O PreMia é um software desenvolvido com o
+intuito de fornecer dados estatísticos
+para os valores de glicemia e pressão
+e com isso, auxiliar na escolha do melhor
+tratamento para o paciente.</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_3">
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>
+No botão &quot;Acessar&quot;, você será redirecionado à
+janela de alimentação do banco de dados.
+
+O botão &quot;Criar&quot; levará você à janela de criação
+do banco de dados. Verifique as informações
+antes de criar o banco de dados,
+uma vez criado é impossível excluí-lo.
+
+Clicando no botão &quot;Gráficos&quot;, será aberta uma janela
+para que possa escolher o banco de dados e o
+tipo de gráfico a ser analisado.
+Caso seja a primeira vez que o PreMia é aberto,
+a visualização do gráfico
+solicitado demorará alguns segundos.</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
