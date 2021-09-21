@@ -1,0 +1,57 @@
+Pasta interface_grafica_python
+menu_inicial: 131
+res: 1582
+tela_acessar_banco_dados: 265
+tela_acessar_graficos: 264
+tela_acessar_graficos_glicemia: 157
+tela_acessar_graficos_glicemia_pressao: 281
+tela_acessar_graficos_pressao: 193
+tela_adicionar_dados_glicemia: 272
+tela_adicionar_dados_glicemia_pressao: 441
+tela_adicionar_dados_pressao: 338
+tela_ajuda: 73
+tela_criar_banco_dados: 281
+
+Total de documentos: 12
+Total de linhas: 4278
+
+Pasta interface_grafica_ui
+menu_inicial: 238
+res: 6
+tela_acessar_banco_dados: 475
+tela_acessar_graficos: 450
+tela_acessar_graficos_glicemia: 261
+tela_acessar_graficos_glicemia_pressao: 554
+tela_acessar_graficos_pressao: 355
+tela_adicionar_dados_glicemia: 460
+tela_adicionar_dados_glicemia_pressao: 724
+tela_adicionar_dados_pressao: 535
+tela_ajuda: 95
+tela_criar_banco_dados: 511
+
+Total de documentos: 12
+Total de linhas: 4664
+
+Documentos Python PreMia
+acessar_banco_dados: 159
+acessar_graficos: 155
+acessar_graficos_glicmemia: 68
+acessar_graficos_glicemia_pressao: 106
+acessar_graficos_pressao: 72
+adicionar_banco_dados_glicemia: 45
+adicionar_banco_dados_glicemia_pressao: 108
+adicionar_banco_dados_pressao: 69
+alimentar_glicemia: 215
+alimentar_glicemia_pressao: 487
+alimentar_pressao: 301
+criar_banco_dados: 217
+criar_documentos_banco_dados: 23
+gerar_graficos_glicemia: 307
+gerar_graficos_glicemia_pressao: 575
+gerar_graficos_pressao: 297
+layout: 19
+menu_inicial: 62
+tela_ajuda_menu: 9
+
+Total de documentos: 19
+Total de linhas: 3294
