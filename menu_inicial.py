@@ -32,7 +32,7 @@ class MenuInicial(QWidget, menu_inicial.Ui_menu_inicial):
         # Botão "A j u d a"
         self.ajuda.clicked.connect(self.botao_ajuda)
 
-        # Botão "V e r s ã o 1.0.0"
+        # Botão "V e r s ã o 1.1.0"
         self.versao.clicked.connect(self.botao_versao)
 
     def acessar_banco_dados(self):
@@ -54,8 +54,7 @@ class MenuInicial(QWidget, menu_inicial.Ui_menu_inicial):
             '''Nome: PreMia
 Versão: 1.1.0
 Linguagem de programação: Python 3.8.1
-Data de lançamento: dd/mm/aaaa
+Data de lançamento: 07/12/2021
 Desenvolvido por: Guilherme Trevisan Linhares
-Chave da versão: xxxxxxxxx
-O PreMia foi feito com 43 arquivos e 12.277 linhas de código.'''
+O PreMia foi feito com 43 arquivos e 12.276 linhas de código.'''
         )
